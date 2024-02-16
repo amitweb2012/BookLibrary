@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter",
+      "id": 1
+    },
+    {
+      "title": "Frozen",
+      "id": 2
+    },
+    {
+      "title": "Jasmine",
+      "id": 3
+    },
+    {
+      "title": "Jafar returns",
+      "id": 4
+    },
+    {
+      "title": "New Light",
+      "id": 5
+    },
+    {
+      "title": "Aladin",
+      "id": 6
+    }
+  ]
+}
